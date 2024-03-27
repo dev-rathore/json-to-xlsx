@@ -1,0 +1,6 @@
+Install packages - npm install (node version 20.11.1)
+Run file - node <file-name>
+
+Step 1: Get data from elements using create-list-data.js in console
+Step 2: Copy data from console Store data in list-data.js
+Step 3: Run create-spreadsheet.js to create xlsx format file
